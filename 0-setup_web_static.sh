@@ -1,4 +1,4 @@
-#1/usr/bin/env bash
+#!/usr/bin/env bash
 #script that configures NGINX Folders and files
 Placeholder="
   <head>
